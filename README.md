@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+![The typical photo JorgeArtware uses everywhere is a jungle-green cake with pacman thematic for the edible decorations arranged in a circle: there's the famous yellow character with jungle-green eyes, fliped upside-down at the top right which makes it seem as if it was defying gravity, because the center of the circle is meant to be the sky, and there's two ghosts; Blinky(red) & Clyde(orange), the red one at the bottom facing to the right and the orange at the left facing down, every character is separated by 5 white dots, the one in the middle is a big yummy one every time. ](./assets/images/jorgeartware-pacman_cake-narrow-flip_upd-square_1794px | width=1054 align=center)
 
-You can use the [editor on GitHub](https://github.com/jorgeartware/jorgeartware.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hello, what the hell are you doing here? :sweat_smile:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please visit one of our business pages instead of reading my presumptuous bio.
 
-### Markdown
+- Visit [Shellzpeare](https://shellzpeare.github.io) if you don't give a shell about servers, code, programming, but still find yourself wanting to make an app, website, or similar. We do it for you! 
+- Visit [VitalBleeding](https://vitalbleeding.github.io) for all your projects that need Designing to either have… you know… just the nice brand visuals… OR maybe you have a broader understanding of what design means, and you want all the integration and planning that comes from designing your projects before making investments and running deployments because designing will help you avoid losing money by mistakes being made by the lack of design.
+- Visit [Creative Dispatch](https://creativdispatch.github.com) when your ambitions have grown in complexity and your needs have become complicated.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| ![The logo and icons of Shellzpeare vary but they all have one consistent thing in common, they’re a couple of curly brackets enclosing diverse objects that make reference to or evoke the two main themes: tecnology & poetry. The background is dark gray almost black and the brackets are gray. Inside, in this case, we can clearly see there’s a crow attached to skull that’s wearing a crown made with the shape of a computer keyboard. The keyboard’s function keys were partially spun by a quarter turn left and right interspersed as pairs and odds continuously for all function keys which is the top row to make the shape of the spikes of the crown. Only by looking closely at the skull we can distinguish a black silhouette that makes very little contrast from the background, there’s a head around the skull, the king is alive.](https://github.com/shellzpeare/shellzpeare.github.io/assets/images/shellzpeare-logo-shakespeare_hamlet_macbeth_juliuscaesar_caesar_crow_crown_skull_gold_keyboard.png | width=427) | ![Vital Bleeding studio’s logo; it’s a geometrical compass opened upwards making the shape of a letter V, it’s framed by a circle of violet color background with white markings and lines that simulate the aspect of a cutting mat for designers and crafts, it also aludes to clock watches that mark the time.](https://github.com/vitalbleeding/vitalbleeding.github.io/assets/images/vital_bleeding-vitalbleeding-logo-design_studio-violet_lily-1024px.jpg | width=427) | ![Creative Dispatch’s logo is a 2D representation of an entire office featuring a multipurpose desk with drawers and a file cabinet, an old fashioned classic telephone quite big and handy on top of the whole design, an executive chair right in the middle center, both facing the viewer. There’s office stationery plus an array of communication devices from many eras of technology forming a circle around the desk and chair, different from the daylight logo which has many dozens of tools, it’s nighttime now so only the most essential office tools are around in the home office: from telephone to cellphone, notebook, agenda, business card organiser, digital tablet, and a few more. What’s remarkably new in here? earbuds for listening to music while working, and an intercom speaker because the office is always opened but if you want to come to the home office you gotta ring the bell and speak up to get access permission. All the objects are arranged in a pleasant orderly manner. Most of the objects are yellow except for select gray devices, some to highlight they are modern digital devices and others to highlight their shape by the color and give contrast and balance to the imagery, the vintage telephone still displaying available huge right at the top. It can also be an executive office because the boss doesn’t need to be using all the devices and only gives orders.](https://github.com/creativdispatch/creativdispatch.github.io/assets/images/creative_dispatch-creativdispatch-logo-business_consultancy_project_management-solutions_recruit_personnel.png | width=427) |
+| :--- | :--- | :--- |
+| Shellzpeare | Vital Bleeding | Creative Dispatch |
+| --- | --- | --- |
+| poetic quality in software | designers' studio | business consultancy & project management |
+| --- | --- | --- |
+| \*\(web, apps, and computing systems) | \*\(branding, web, apps, 3D, and more) | \*\(urban challenges, campaigns, expansions) |
 
-```markdown
-Syntax highlighted code block
+### Looking to be social? Here's my links, please keep it… ahem!… social.
 
-# Header 1
-## Header 2
-### Header 3
+| [Twixter:](https://twitter.com/JorgeArtware) | [LinkedIn](https://linkedin.com/in/jorgeartware)] | [Wordpress](https://jorgeartware.wordpress.com) |
 
-- Bulleted
-- List
+### See you around. Don't forget to tip waiters, and thanks four all dev fish.
 
-1. Numbered
-2. List
+![Abstract blocky illustration of JorgeArtware's typical pacman cake photo. Margin and square proportions made on purpose specifically to match Github's random auto-generated images assigned to any user and organisation as a gift for id_profile.](./assets/images/jorgeartware-pacman_cake-abstract_icon-400px.png | text-align=center)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jorgeartware/jorgeartware.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jorge Arturo Gómez Retamoza (198x-MMxxiii&∞). All rights resered.
