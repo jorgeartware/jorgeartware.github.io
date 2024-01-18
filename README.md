@@ -18,5 +18,6 @@ Please visit one of our business pages instead of reading my presumptuous bio.
 <br/>
 <br/>
 
+| :--- | :--- |
 | ![Abstract blocky illustration of JorgeArtware's typical pacman cake photo. Margin and square proportions made on purpose specifically to match Github's random auto-generated images assigned to any user and organisation as a gift for id_profile.](https://raw.githubusercontent.com/jorgeartware/jorgeartware.github.io/master/assets/images/jorgeartware-pacman_cake-abstract_icon-400px.png) | Looking to be social?<br/>Here's my links, please keep it… ahem!… social.<br/>[:bird:Twixter](https://twitter.com/JorgeArtware) [:card_index_dividers:LinkedIn](https://linkedin.com/in/jorgeartware) [:octocat:Github](https://github.com/jorgeartware) [:scroll:Wordpress](https://jorgeartware.wordpress.com)<br/><br/><br/><br/><br/><br/><br/><br/>See you around.<br/>Don't forget to tip waiters, and thanks foo all dev fish.<br/>Jorge Arturo Gómez Retamoza (198x-MMxxiii&∞).<br/>All rights reserved. |
 | :--- | :--- |
