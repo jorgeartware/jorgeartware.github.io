@@ -109,3 +109,11 @@ xcuserdata/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,xcode,git
 # Toptally thank you!
+
+### Jekyll bundler “patch” [rather than patching, more like… bundler replaced the whole silly thing and I had to restore my previous .gitignore] ###
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
